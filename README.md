@@ -8,8 +8,8 @@
 
 # Installation steps
 ```
-$ git clone <devops-box>
-$ cd <devops-box>
+$ git clone https://github.com/c2vasu/devops-box
+$ cd devops-box
 $ vagrant up
 $ vagrant ssh-config
 $ vagrant ssh
